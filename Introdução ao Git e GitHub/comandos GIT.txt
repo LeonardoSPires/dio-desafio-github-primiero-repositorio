@@ -1,0 +1,41 @@
+Comandos GIT:
+
+DIR : mostra todas as pastas.
+
+del + nome da pasta: apaga todo conteudo dentro da pasta.
+
+rmdir + nome da pasta: apaga a pasta.
+
+echo + nome do documento: cria um documento dentro da pasta.
+
+CLS: limpa a tela.
+
+mkdir +nome da pasta: cria uma nova pasta.
+
+openssl sha1 = nome do arquivo : cria a
+ criptografia de 40 digitos.
+
+
+comando para criar chave SSH E TOKEM:
+ssh-keygen -t ed25519 -C leopires1988@gmail.com
+
+entrar na pasta .ssh: cd /c/Users/Léo/.ssh/
+
+informa o conteudo da pasta: ls
+
+gera o codigo para copiar e colar no github: 
+ cat id_ed25519.pub
+
+comando para gerar Agent pid:
+eval $(ssh-agent -s)
+
+copia o ssh e digita git clone e copia o caminho no
+git hub.
+
+
+
+
+
+
+
+

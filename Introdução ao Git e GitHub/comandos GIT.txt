@@ -32,6 +32,27 @@ eval $(ssh-agent -s)
 copia o ssh e digita git clone e copia o caminho no
 git hub.
 
+como enviar o repositorio local para o remoto:
+1- Vá até a pasta e abra o git bash
+
+2- Depois de um git init
+
+3- de um git add *
+
+4- git commit -m "Commit inicial"
+
+git remote add origin + link do github.
+
+Informa a lista de repositorio remoto
+git remote -v
+
+saber se ha alguma pendencia no repositório.
+git status
+
+empurra o código para o github
+git push origin master
+
+
 
 
 
